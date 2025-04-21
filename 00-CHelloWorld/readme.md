@@ -1,0 +1,2 @@
+\- GCC 6.3.0  
+- compila C11
